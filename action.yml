@@ -28,5 +28,5 @@ branding:
   icon: 'webapp.svg'
   color: 'blue'
 runs:
-  using: 'node16'
+  using: 'node24'
   main: 'lib/main.js'
